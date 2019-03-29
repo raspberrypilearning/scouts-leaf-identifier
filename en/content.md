@@ -27,12 +27,12 @@ Give an idea of what the activity is.
 
 ### If your meeting place has WiFi
 
-Run Scratch online in a web browser with an internet connection and open the starter project "shape shooter" using this link [rpf.io/scouts-leaf-id-on](http://rpf.io/scouts-leaf-id-on).
+Run Scratch online in a web browser with an internet connection and open the "leaf id" starter project using this link [rpf.io/scouts-leaf-id-on](http://rpf.io/scouts-leaf-id-on).
 
 ### If your meeting place doesn’t have WiFi
 
 + Download the Scratch Desktop application beforehand; refer to the Scratch guide [rpf.io/scouts-scratch](http://rpf.io/scouts-scratch) for instructions. 
-+ Download the Scouts Game Design starter project "shape-shooter.sb3" from [rpf.io/scouts-graphics-go](http://rpf.io/scouts-graphics-go).
++ Download the Leaf id starter project "leaf-id-starter.sb3" from [rpf.io/scouts-leaf-id-go](http://rpf.io/scouts-leaf-id-go).
 
 
 ## Key messages
